@@ -36,9 +36,9 @@ A Flask-based e-commerce website with search capabilities, with a full backend c
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DarthKitten&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DarthKitten2130&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKitten&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKitten2130&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
