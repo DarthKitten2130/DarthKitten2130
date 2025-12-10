@@ -17,7 +17,7 @@ Welcome to my GitHub! I love building things that interest me, whether they be w
 `PostgreSQL` • `MySQL` • `SQLite` • `MongoDB` 
 
 **Other Experience**  
-`Git` • `Linux` • `Docker` • `AWS` • `Google Cloud` • `Firebase` • `REST APIs` • `Terraform` • ` Vercel` •  `Render` 
+`Git` • `Linux` • `Docker` • `AWS` • `Google Cloud` • `Firebase` • `REST APIs` • `Terraform` • `Vercel` •  `Render` 
 
 ---
 
