@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=_3881f5&height=300&section=header&text=Sathvik%20fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=3881f5&height=300&section=header&text=Sathvik%20fontSize=90)
 <!--
 **DarthKitten2130/DarthKitten2130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
