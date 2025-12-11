@@ -37,3 +37,4 @@ A Flask-based e-commerce website with search capabilities, with a full backend c
 ## 📫 Reach Me
 
 **Linkedin** - https://www.linkedin.com/in/sathvik-mulukutla-2a5755251/
+**Email** - sathvik.mulukutla2130@gmail.com
